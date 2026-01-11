@@ -1,5 +1,5 @@
 # 💫 About Me:
-A software engineer at Oracle, Hyderabad.<br>Currently working on multiple projects.<br>Tech Enthusiast.
+Senior software engineer at Experian, Hyderabad.<br>Currently working on multiple projects.<br>Tech Enthusiast.
 
 
 ## 🌐 Socials:
